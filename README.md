@@ -37,7 +37,7 @@ UCB = vi + C ∗ lnNni
 *回溯：*根据模拟的结果，自底向上反向更新所有节点的信息
 
 其完整的流程如图 1 所示
-![图1] (D:\桌面\研究生课程\人工智能 1\course\Gobang\images\图片 1.png)
+![图1](https://github.com/yuliang555/gobang/blob/master/images/%E5%9B%BE%E7%89%871.png)
 图 1
 
 #### <a name="_toc9751"></a>**2.2 极大极小+α-β 剪枝算法**
